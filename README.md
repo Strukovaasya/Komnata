@@ -1,1 +1,1 @@
-# komnaty
+# komnata
